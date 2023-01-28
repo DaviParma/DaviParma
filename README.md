@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Parma</h1>
 <h3 align="center">Experience in web design and development knowledge, producing quality work.</h3>
 
-- 🔭 I’m currently working on **home**
+
 
 
 <h3 align="left">Connect with me:</h3>
