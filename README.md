@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on **home**
 
-- 📫 How to reach me **daviparma09@hotmail.com**
-
-- ⚡ Fun fact **I'm good at video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
