@@ -1,24 +1,15 @@
-# Hi there! 👋 I'm Davi Parma, Web Developer
+# 💫 About Me:
+🔭 At the moment, I have finished a full stack project and have already started another one.<br>👯 Looking to collaborate on projects related to website development.<br>🌱 Currently learning new technologies for full stack development.<br>💬 Ask me about website development or any other topic.<br>⚡ Fun fact I got a perfect score during a work internship.
 
-## About Me
 
-I'm a web developer with experience in web design and development, committed to producing high-quality work.
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/davi-parma-25b2031a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davi-parma-25b2031a8" height="30" width="40" /></a>
+<a href="mailto:daviparma09@hotmail.com" target="blank"><img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="https://www.linkedin.com/in/davi-parma-25b2031a8" height="30" width="40" /></a>
+</p>
 
-## Connect with Me
-
-- LinkedIn: [https://www.linkedin.com/in/davi-parma-25b2031a8](https://www.linkedin.com/in/davi-parma-25b2031a8)
-- Email: [daviparma09@hotmail.com](mailto:daviparma09@hotmail.com)
-
-## Languages and Tools
-
-- CSS3
-- Express
-- Figma
-- Git
-- HTML5
-- JavaScript
-- MySQL
-- Node.js
-- PostgreSQL
-- React
-- Tailwind CSS
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DaviParma&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DaviParma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviParma&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
