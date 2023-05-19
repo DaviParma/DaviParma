@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 At the moment, I have finished a full stack project and have already started another one.<br>👯 Looking to collaborate on projects related to website development.<br>🌱 Currently learning new technologies for full stack development.<br>💬 Ask me about website development or any other topic.<br>⚡ Fun fact I got a perfect score during a work internship.
+🔭 At the moment, I am working as a full stack developer.<br>👯 Looking to collaborate on projects related to website development.<br>🌱 Currently learning new technologies for full stack development.<br>💬 Ask me about website development or any other topic.<br>⚡ Fun fact I got a perfect score during a work internship.
 
 
 ## 🌐 Socials:
